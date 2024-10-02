@@ -1,5 +1,6 @@
 # Jogo da Memória
 
+## Trabalho desenvolvido para Raciocínio Algorítmico
 Este é um jogo da memória implementado em Python usando a biblioteca Turtle. O objetivo do jogo é encontrar todos os pares de cartas iguais.
 
 ## Como Jogar
