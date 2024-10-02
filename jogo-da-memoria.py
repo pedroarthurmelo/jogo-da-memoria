@@ -1,16 +1,3 @@
-# Jogo da Memória
-
-## Trabalho realizado para Raciocínio Algorítmico
-Este é um jogo da memória implementado em Python usando a biblioteca Turtle. O objetivo do jogo é encontrar todos os pares de cartas iguais.
-
-## Como Jogar
-
-1. **Inicie o Jogo**: Execute o programa e clique em um dos botões para escolher a dificuldade (Fácil, Médio ou Difícil).
-2. **Revele as Cartas**: Clique em duas cartas para revelá-las. Se as cartas forem iguais, elas permanecerão visíveis. Caso contrário, elas serão ocultadas após um breve atraso.
-3. **Dicas**: Você pode pressionar a tecla `v` para revelar todas as cartas por 3 segundos, mas essa opção só pode ser usada duas vezes por jogo.
-
-## Código:
-```python
 import turtle
 import random
 import time
